@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hi, I'm Rohit Magar
-
-### Cloud & DevOps Engineer · Identity & Access Automation
+### IAM Engineer · Identity & Access Automation
 
 I build serverless pipelines that connect ITSM, identity platforms, and data access — turning manual provisioning into auditable, self-service workflows.
 
@@ -40,10 +39,8 @@ I build serverless pipelines that connect ITSM, identity platforms, and data acc
 **DevOps & tooling**
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 ---
 
@@ -60,14 +57,10 @@ I build serverless pipelines that connect ITSM, identity platforms, and data acc
 ### GitHub activity
 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=RohitMagar165&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMagar165&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
 <br />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMagar165&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
 </div>
 
 ---
